@@ -1,0 +1,36 @@
+html,body,*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+::-webkit-scrollbar{
+  display: none;
+}
+
+.nav-links-first{
+  
+}
+.nav-links-first a{
+  text-decoration: none;
+  color:black;
+  margin-right: 16px;
+  font-size: smaller;
+}
+.nav-links-first button{
+  background-color: rgb(245, 94, 18);
+  color: aliceblue;
+  font-size: smaller;
+  border-radius: 0;
+  padding: 5px 16px;
+}
+.nav-links-second a{
+  text-decoration: none;
+  color:black;
+  margin-right: 16px;
+  font-size: smaller;
+}
+.home{
+  background-color: rgb(214, 244, 243);
+  width: 100vw;
+}
